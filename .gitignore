@@ -1,0 +1,7 @@
+.cache/
+.nvm/
+.local/
+terminal_full_output/
+.local/
+__pycache__/
+terminal_full_output/
